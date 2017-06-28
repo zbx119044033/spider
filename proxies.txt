@@ -1,3 +1,4 @@
+# Here shows the formate of IPPool, nevertheless most of these ips are useless
 36.22.123.121:808
 85.117.36.196:3128
 171.39.28.153:8123
